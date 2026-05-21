@@ -1,6 +1,6 @@
 {
-  "versionCode": 37,
-  "versionName": "1.7.0",
-  "message": "Mise à jour v1.7.0 : ouverture à la France 🇫🇷 et l'Allemagne 🇩🇪 (annuaire, urgences adaptés par pays).",
-  "messageDe": "Update v1.7.0: Jetzt auch für Frankreich 🇫🇷 und Deutschland 🇩🇪 verfügbar (Verzeichnis und Notfälle je nach Land angepasst)."
+  "versionCode": 38,
+  "versionName": "1.7.1",
+  "message": "Mise à jour v1.7.1 : ajout de la Belgique 🇧🇪, bouton réinitialiser, liens annuaire corrigés.",
+  "messageDe": "Update v1.7.1: Belgien 🇧🇪 hinzugefügt, App-Reset-Schaltfläche, Verzeichnis-Links korrigiert."
 }
